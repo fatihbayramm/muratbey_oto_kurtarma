@@ -38,7 +38,7 @@ To view or edit the website locally, simply clone the repository and open `index
 ## 🚀 Live 
 [View Website](https://your-deployment-link.com) <!-- Replace with your actual link -->
 
-
+---
 
 ## Directory Structure
 
