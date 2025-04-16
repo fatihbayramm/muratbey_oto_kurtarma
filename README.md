@@ -49,6 +49,7 @@ To view or edit the website locally, simply clone the repository and open `index
 | `/public/index.html`                             |  Main index file.                                        |
 | `/public/style.css`                               | - CSS files.                                                         |
 
+---
 
 # Screenshots
 
