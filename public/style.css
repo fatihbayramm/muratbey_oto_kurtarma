@@ -180,6 +180,26 @@ footer {
   gap: 2rem;
 }
 
+html {
+  scroll-behavior: smooth; /* Smooth scroll için */
+}
+
+.nav-links {
+  display: flex;
+  gap: 2rem;
+}
+
+.nav-link {
+  color: var(--light-color);
+  text-decoration: none;
+  font-weight: 500;
+  transition: opacity 0.3s;
+}
+
+.nav-link:hover {
+  opacity: 0.8;
+}
+
 @media (max-width: 767px) {
   .header {
     height: 50px;
@@ -243,6 +263,16 @@ footer {
     text-align: justify;
     hyphens: auto;
     word-wrap: break-word;
+  }
+
+  .nav-links {
+    display: none; /* Mobilde gizle */
+  }
+}
+
+@media (min-width: 767px) and (max-width: 1023px) {
+  .nav-links {
+    display: none;
   }
 }
 
