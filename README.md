@@ -2,8 +2,25 @@
 
 **Muratbey Oto Kurtarma** is a fully responsive, single-page website built to represent a vehicle rescue and roadside assistance service. This project aims to deliver a clean, modern, and user-friendly interface, ensuring an optimal experience across all devices.
 
-## 🚀 Live 
-[View Website](https://your-deployment-link.com) <!-- Replace with your actual link -->
+---
+
+
+## ✨ Features
+
+- **Semantic HTML5 Markup**  
+  Proper use of HTML5 semantic tags like `<header>`, `<section>`, `<nav>`, `<main>`, and `<footer>` to enhance accessibility and SEO.
+
+- **Responsive Design**  
+  Fully optimized for desktops, tablets, and mobile devices using a mobile-first approach and media queries.
+
+- **Smooth Scroll**  
+  Implemented smooth scrolling for a better user experience when navigating between sections.
+
+- **Clean UI/UX**  
+  A simple and intuitive interface with a focus on readability and user flow.
+
+
+---
 
 ---
 
@@ -13,6 +30,11 @@
 - **CSS3** - Custom styling with media queries for responsiveness
 
 ---
+
+## 🚀 Live 
+[View Website](https://your-deployment-link.com) <!-- Replace with your actual link -->
+
+
 
 ## Directory Structure
 
