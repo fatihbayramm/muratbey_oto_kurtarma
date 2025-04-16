@@ -202,6 +202,26 @@ html {
   opacity: 0.8;
 }
 
+.hero-contact {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.hero-phone {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--light-color);
+  background: rgba(0, 0, 0, 0.5);
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+}
+
 @media (max-width: 767px) {
   .header {
     height: 50px;
@@ -269,6 +289,11 @@ html {
 
   .nav-links {
     display: none; /* Mobilde gizle */
+  }
+
+  .hero-phone {
+    font-size: 1.2rem;
+    padding: 0.4rem 0.8rem;
   }
 }
 
