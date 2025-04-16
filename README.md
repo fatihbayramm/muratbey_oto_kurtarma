@@ -22,8 +22,6 @@
 
 ---
 
----
-
 ## 🛠️ Technologies Used
 
 - **HTML5** - Semantic and accessible structure
