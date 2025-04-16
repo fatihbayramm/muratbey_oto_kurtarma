@@ -29,6 +29,12 @@
 
 ---
 
+## 🔧 Usage
+
+To view or edit the website locally, simply clone the repository and open `index.html` in your browser.
+
+---
+
 ## 🚀 Live 
 [View Website](https://your-deployment-link.com) <!-- Replace with your actual link -->
 
