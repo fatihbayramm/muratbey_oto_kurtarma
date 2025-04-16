@@ -112,7 +112,7 @@ body {
 }
 
 .services-title {
-  margin-left: 88px;
+  margin-left: 112px;
 }
 
 .service-grid {
@@ -161,9 +161,9 @@ body {
 }
 
 .about {
-  padding: 4rem 2rem;
+  padding: 4rem 0rem;
   max-width: 1200px;
-  margin: 0 auto;
+  margin: 0 112px;
 }
 
 footer {
@@ -233,6 +233,17 @@ footer {
   .service-card img {
     height: 300px;
   }
+
+  .about {
+    margin: 0 1.5rem;
+    padding: 2rem 0;
+  }
+
+  .about p {
+    text-align: justify;
+    hyphens: auto;
+    word-wrap: break-word;
+  }
 }
 
 @media (min-width: 767px) and (max-width: 1024px) {
@@ -244,5 +255,9 @@ footer {
   .services-title {
     text-align: center;
     margin-left: 0;
+  }
+
+  .about {
+    margin: 0 2rem;
   }
 }
